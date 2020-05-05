@@ -3,3 +3,15 @@ This is my first file on GitHub.
 
 May, 5th 2020
 - vel
+
+
+Printing hello world in every programming language I have learned :
+
+1. Python:
+  print("Hello world")
+
+2. C:
+  printf("Hello world");
+
+3. C++:
+  cout << "Hello world";
